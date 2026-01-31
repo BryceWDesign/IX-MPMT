@@ -1,0 +1,26 @@
+# File: .gitignore
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Data / Logs
+data/
+logs/
+*.csv
+*.h5
+*.mat
+
+# Builds
+build/
+dist/
+
