@@ -1,0 +1,22 @@
+# File: software/logging/channel_map_template.csv
+name,unit,description
+force_primary,N,Primary force sensor output (converted to Newtons if calibrated)
+sync_out,logic,Digital sync marker captured by DAQ
+vin_source,V,Supply input voltage (MP1)
+iin_source,A,Supply input current (MP1)
+v_buffer,V,Buffer voltage (MP2, if present)
+i_buffer,A,Buffer current (MP2, if present)
+accel_stand_x,m/s^2,Stand accelerometer X
+accel_stand_y,m/s^2,Stand accelerometer Y
+accel_stand_z,m/s^2,Stand accelerometer Z
+accel_rig_x,m/s^2,Rig-body accelerometer X
+accel_rig_y,m/s^2,Rig-body accelerometer Y
+accel_rig_z,m/s^2,Rig-body accelerometer Z
+mag_x,uT,Magnetic field X near test volume
+mag_y,uT,Magnetic field Y near test volume
+mag_z,uT,Magnetic field Z near test volume
+temp_core_shell,C,Core capsule shell temperature
+temp_frame,C,Frame/stand temperature near force sensor
+humidity,percent,Ambient relative humidity (in-air testing)
+pressure,hPa,Ambient pressure (in-air testing)
+airflow_proxy,arb,Airflow/flow proxy sensor near test volume (if used)
