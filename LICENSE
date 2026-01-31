@@ -1,0 +1,85 @@
+# File: LICENSE
+
+EVALUATION-ONLY LICENSE (NO COMMERCIAL USE)
+Version 1.0
+
+Copyright (c) 2026 Bryce Lovell
+All rights reserved.
+
+THIS LICENSE IS NOT AN OPEN-SOURCE LICENSE. It permits evaluation and testing only.
+Any commercial use or company/internal operational use beyond evaluation requires a
+separate written license from the Licensor.
+
+1) DEFINITIONS
+- "Licensor" means Bryce Lovell.
+- "Software" means all contents of this repository, including documentation, designs,
+  diagrams, models, data, and any related materials.
+- "You" means the individual or legal entity exercising permissions under this license.
+- "Evaluation" means non-production review, testing, benchmarking, verification,
+  and experimentation performed solely to assess feasibility and suitability.
+
+2) LICENSE GRANT (EVALUATION ONLY)
+Subject to the terms of this license, the Licensor grants You a limited, revocable,
+non-exclusive, non-transferable license to:
+a) view, download, and locally reproduce the Software solely for Evaluation;
+b) run and test the Software solely for Evaluation; and
+c) create internal notes and test results derived from Evaluation.
+
+No other rights are granted.
+
+3) PERMITTED USES
+You may:
+a) perform Evaluation in a lab, bench, simulation, or review environment;
+b) share the Software internally only with employees/contractors who have a need to
+   know for Evaluation, provided they are bound by terms no less restrictive than
+   this license; and
+c) discuss high-level findings (non-confidential summaries) without sharing any
+   restricted materials, source, or proprietary designs from the Software.
+
+4) RESTRICTIONS
+You may NOT, without a separate written agreement from the Licensor:
+a) use the Software for production, operational, or mission-critical purposes;
+b) commercialize, sell, rent, lease, license, sublicense, or distribute the Software
+   or any substantial portion of it;
+c) publish or disclose the Software (including designs, diagrams, models, or
+   implementation details) in whole or in part;
+d) use the Software to provide services to third parties (including consulting,
+   integration, hosting, or managed services) beyond Evaluation;
+e) create derivative works for any purpose other than Evaluation, except as needed
+   to run tests and benchmarking internally; or
+f) remove or alter copyright notices, attribution statements, or this license.
+
+5) OWNERSHIP
+The Software is licensed, not sold. The Licensor retains all right, title, and
+interest in and to the Software, including all intellectual property rights.
+
+6) FEEDBACK
+If You choose to provide feedback, suggestions, test results, or improvements
+("Feedback"), You grant the Licensor a perpetual, worldwide, royalty-free,
+irrevocable license to use, reproduce, modify, and incorporate that Feedback for
+any purpose, without obligation to You. Feedback is provided "as is."
+
+7) TERMINATION
+This license is effective until terminated. It terminates automatically if You
+breach any term. Upon termination, You must cease all use of the Software and
+destroy all copies in Your possession or control (including internal forks and
+archives), except where retention is required by law.
+
+8) EXPORT / COMPLIANCE
+You are responsible for complying with all applicable laws and regulations,
+including export control and sanctions laws, if applicable to Your use.
+
+9) DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+NON-INFRINGEMENT, AND TITLE.
+
+10) LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR
+ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, OR FOR ANY
+LOSS OF PROFITS, REVENUE, DATA, OR BUSINESS INTERRUPTION, ARISING OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY.
+
+11) COMMERCIAL LICENSE REQUESTS
+For commercial use, deployment, sublicensing, or rights not granted here, contact the
+Licensor using the repository owner contact details to negotiate a separate written agreement.
