@@ -1,0 +1,72 @@
+# File: runs/template_run/run_manifest.json
+{
+  "run_id": "TEMPLATE_ONLY",
+  "utc_timestamp": "YYYY-MM-DDTHH:MM:SSZ",
+  "operator": "TBD",
+  "notes": "TEMPLATE ONLY — replace with real run info. Do not publish fabricated measurements.",
+
+  "repo": {
+    "name": "IX-MPMT",
+    "git_commit": "REPLACE_WITH_REAL_COMMIT_HASH"
+  },
+
+  "hardware": {
+    "architecture": "H6-C12",
+    "core_capsule": {
+      "version": "core_v1",
+      "mount_indexed": true,
+      "shielding": "TBD"
+    },
+    "pods": [
+      { "position": 1, "pod_id": "POD_001", "role": "dummy" },
+      { "position": 2, "pod_id": "POD_002", "role": "dummy" },
+      { "position": 3, "pod_id": "POD_003", "role": "dummy" },
+      { "position": 4, "pod_id": "POD_004", "role": "dummy" },
+      { "position": 5, "pod_id": "POD_005", "role": "dummy" },
+      { "position": 6, "pod_id": "POD_006", "role": "dummy" }
+    ],
+    "sensor_skin": {
+      "nodes_used": ["A1","A2","A3","A4","A5","A6","B1","B2","B3","B4","B5","B6"],
+      "geometry_notes": "TBD"
+    }
+  },
+
+  "daq": {
+    "timebase": "controller_led",
+    "sample_rates_hz": {
+      "force_primary": 500,
+      "sync_out": 500,
+      "accel_stand": 500,
+      "accel_rig": 500,
+      "mag": 100,
+      "temp": 5
+    },
+    "channels": [
+      { "name": "force_primary", "unit": "N", "scale": 1.0, "offset": 0.0 },
+      { "name": "sync_out", "unit": "logic", "scale": 1.0, "offset": 0.0 }
+    ]
+  },
+
+  "excitation": {
+    "phase_map_deg": {
+      "CH0": 0,
+      "CH1": 120,
+      "CH2": 240
+    },
+    "codes": {
+      "CH0": "CodeA",
+      "CH1": "CodeB",
+      "CH2": "CodeC"
+    },
+    "carrier_frequency_hz": 0,
+    "chip_duration_s": 0.2,
+    "sync_out_recorded": true
+  },
+
+  "calibration": {
+    "force_calibration_method": "TBD",
+    "pre_run": "TBD",
+    "post_run": "TBD",
+    "constants": {}
+  }
+}
