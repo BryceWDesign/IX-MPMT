@@ -1,5 +1,3 @@
-# File: docs/13_one_page_brief.md
-
 # IX-MPMT — One-Page Brief (For Professional Review)
 
 ## What it is
