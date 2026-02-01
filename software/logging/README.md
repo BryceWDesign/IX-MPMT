@@ -1,5 +1,3 @@
-# File: software/logging/README.md
-
 # Logging (Run Manifest + Channel Map)
 
 ## Purpose
