@@ -1,5 +1,3 @@
-# File: software/logging/validate_manifest.py
-
 """
 Manifest validation helper for IX-MPMT.
 
