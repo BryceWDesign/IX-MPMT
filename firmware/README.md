@@ -1,5 +1,3 @@
-# File: firmware/README.md
-
 # Firmware (Timing / Coherence Control)
 
 ## Purpose
