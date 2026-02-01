@@ -1,5 +1,3 @@
-# File: software/analysis/prbs.py
-
 """
 Deterministic code utilities for IX-MPMT coded excitation.
 
