@@ -1,5 +1,3 @@
-# File: hardware/POD_MODULE_STANDARD.md
-
 # Pod Module Standard (H6 Pods)
 
 ## Purpose
