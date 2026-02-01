@@ -1,5 +1,3 @@
-# File: docs/12_replication_checklist.md
-
 # Replication Checklist (What a Reviewer Can Follow)
 
 ## Purpose
