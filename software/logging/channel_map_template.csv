@@ -1,3 +1,4 @@
+# software/logging/channel_map_template.csv
 name,unit,description
 force_primary,N,Primary force sensor output (converted to Newtons if calibrated)
 sync_out,logic,Digital sync marker captured by DAQ
