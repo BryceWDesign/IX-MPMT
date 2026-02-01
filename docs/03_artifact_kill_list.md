@@ -1,5 +1,3 @@
-# File: docs/03_artifact_kill_list.md
-
 # Artifact Kill-List (How Micro-Force Tests Lie)
 
 Micro-force rigs are easy to fool. This document lists the most common false-positive
