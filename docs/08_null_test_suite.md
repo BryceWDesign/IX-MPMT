@@ -1,5 +1,3 @@
-# File: docs/08_null_test_suite.md
-
 # Null-Test Suite (Required to Claim Anything)
 
 ## Purpose
