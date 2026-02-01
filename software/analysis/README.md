@@ -1,5 +1,3 @@
-# File: software/analysis/README.md
-
 # Analysis Tools (CPFS Correlation / Lock-In)
 
 ## Purpose
