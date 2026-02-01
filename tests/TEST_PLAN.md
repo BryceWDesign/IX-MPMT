@@ -1,5 +1,3 @@
-# File: tests/TEST_PLAN.md
-
 # IX-MPMT Test Plan (Proof-of-Concept Path)
 
 ## Goal
