@@ -1,5 +1,3 @@
-# File: reports/POC_REPORT_TEMPLATE.md
-
 # IX-MPMT Proof-of-Concept Report (Template)
 
 > TEMPLATE ONLY — this file is a reporting structure.  
