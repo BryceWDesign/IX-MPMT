@@ -1,5 +1,3 @@
-# File: hardware/POD_CONNECTOR_PINOUT_STANDARD.md
-
 # Pod Connector / Pinout Standard (Concept-Level)
 
 ## Purpose
