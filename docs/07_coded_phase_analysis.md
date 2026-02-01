@@ -1,5 +1,3 @@
-# File: docs/07_coded_phase_analysis.md
-
 # Coded-Phase Analysis (CPFS) — Correlation / Lock-In for Causality
 
 ## Purpose
