@@ -1,5 +1,3 @@
-# File: hardware/POWER_SPINE.md
-
 # Power Spine — Buffer, Gating, Dump, and Measurement
 
 ## Purpose
