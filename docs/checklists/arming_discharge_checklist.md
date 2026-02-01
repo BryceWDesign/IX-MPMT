@@ -1,5 +1,3 @@
-# File: docs/checklists/arming_discharge_checklist.md
-
 # Arming + Discharge Checklist (Print This)
 
 ## A) Before ARMED
