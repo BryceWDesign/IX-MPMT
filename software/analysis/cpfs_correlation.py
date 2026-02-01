@@ -1,5 +1,3 @@
-# File: software/analysis/cpfs_correlation.py
-
 """
 IX-MPMT CPFS Correlation Tool
 ----------------------------
