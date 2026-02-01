@@ -1,5 +1,3 @@
-# File: docs/05_timing_and_coherence.md
-
 # Timing, Phase Coherence, and Coded Excitation (What “Coherent” Means)
 
 ## Purpose
