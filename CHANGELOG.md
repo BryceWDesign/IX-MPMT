@@ -1,5 +1,3 @@
-# File: CHANGELOG.md
-
 # Changelog — IX-MPMT
 
 ## v0.1.0 (Initial Public Draft)
