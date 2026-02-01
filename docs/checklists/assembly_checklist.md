@@ -1,5 +1,3 @@
-# File: docs/checklists/assembly_checklist.md
-
 # Assembly Checklist (H6-C12)
 
 ## Mechanical
