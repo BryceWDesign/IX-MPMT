@@ -1,5 +1,3 @@
-# File: runs/template_run/plots/README.md
-
 # Plots (Template)
 
 Place exported figures here (png/pdf), generated from repo analysis scripts.
