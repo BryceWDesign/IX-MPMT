@@ -1,5 +1,3 @@
-# File: docs/11_calibration.md
-
 # Calibration (Force / Displacement / Sensor Integrity)
 
 ## Purpose
