@@ -1,5 +1,3 @@
-# File: hardware/GROUNDING_AND_EMI_STRATEGY.md
-
 # Grounding & EMI Strategy (So the Rig Doesn’t Push Itself)
 
 ## Purpose
