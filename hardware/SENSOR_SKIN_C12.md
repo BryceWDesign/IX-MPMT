@@ -1,5 +1,3 @@
-# File: hardware/SENSOR_SKIN_C12.md
-
 # Sensor Skin — C12 (12-Node Context Instrumentation)
 
 ## Purpose
