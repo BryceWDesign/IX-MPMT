@@ -1,5 +1,3 @@
-# File: docs/01_system_architecture.md
-
 # IX-MPMT System Architecture (H6-C12)
 
 ## Purpose
