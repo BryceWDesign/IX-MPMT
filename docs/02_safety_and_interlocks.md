@@ -1,5 +1,3 @@
-# File: docs/02_safety_and_interlocks.md
-
 # Safety & Interlocks (Non-Negotiable)
 
 IX-MPMT may involve **high voltage**, **stored energy**, **strong magnetic fields**, **ultrasonics**, and **hot surfaces**. These hazards can injure or kill. This document defines the minimum safety controls required for any “serious” build and for producing data that professionals will trust.
