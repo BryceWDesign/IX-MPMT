@@ -1,3 +1,4 @@
+// runs/template_run/run_manifest.json
 {
   "run_id": "TEMPLATE_ONLY",
   "utc_timestamp": "YYYY-MM-DDTHH:MM:SSZ",
