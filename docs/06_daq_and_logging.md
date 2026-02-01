@@ -1,5 +1,3 @@
-# File: docs/06_daq_and_logging.md
-
 # DAQ & Logging Specification (Audit-Grade Evidence)
 
 ## Purpose
