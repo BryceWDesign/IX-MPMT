@@ -1,5 +1,3 @@
-# File: docs/04_data_integrity.md
-
 # Data Integrity & Evidence Standards
 
 ## Required for every run
