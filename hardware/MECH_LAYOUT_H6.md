@@ -1,5 +1,3 @@
-# File: hardware/MECH_LAYOUT_H6.md
-
 # Mechanical Layout — H6 Hex Ring + Core Capsule
 
 ## Purpose
