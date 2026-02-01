@@ -1,5 +1,3 @@
-# File: hardware/MECH_LAYOUT_CORE_CAPSULE.md
-
 # Mechanical Layout — Core Capsule (Shielded Center Module)
 
 ## Purpose
