@@ -1,5 +1,3 @@
-# File: docs/14_reviewers_quick_start.md
-
 # Reviewer Quick Start (5-Minute Orientation)
 
 ## 1) Read these first
