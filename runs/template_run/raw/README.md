@@ -1,5 +1,3 @@
-# File: runs/template_run/raw/README.md
-
 # Raw Data (Template)
 
 Place real raw data files here, e.g.:
