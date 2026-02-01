@@ -1,5 +1,3 @@
-# File: runs/README.md
-
 # Runs Folder
 
 This folder is where real datasets live.
