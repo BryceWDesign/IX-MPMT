@@ -1,5 +1,3 @@
-# File: docs/09_assembly_instructions.md
-
 # Assembly Instructions (IX-MPMT H6-C12)
 
 ## Goal
