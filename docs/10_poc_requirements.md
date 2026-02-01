@@ -1,5 +1,3 @@
-# File: docs/10_poc_requirements.md
-
 # Proof-of-Concept (PoC) Requirements — What “Works” Means
 
 ## Purpose
